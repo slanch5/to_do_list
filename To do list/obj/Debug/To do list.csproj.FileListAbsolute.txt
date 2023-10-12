@@ -1,0 +1,21 @@
+D:\myappc#\To do list\To do list\bin\Debug\To do list.exe.config
+D:\myappc#\To do list\To do list\bin\Debug\To do list.exe
+D:\myappc#\To do list\To do list\bin\Debug\To do list.pdb
+D:\myappc#\To do list\To do list\obj\Debug\To do list.csproj.AssemblyReference.cache
+D:\myappc#\To do list\To do list\obj\Debug\To_do_list.Form1.resources
+D:\myappc#\To do list\To do list\obj\Debug\To_do_list.Properties.Resources.resources
+D:\myappc#\To do list\To do list\obj\Debug\To do list.csproj.GenerateResource.cache
+D:\myappc#\To do list\To do list\obj\Debug\To do list.csproj.CoreCompileInputs.cache
+D:\myappc#\To do list\To do list\obj\Debug\To do list.exe
+D:\myappc#\To do list\To do list\obj\Debug\To do list.pdb
+C:\Users\Dell\Desktop\To do list\To do list\bin\Debug\To do list.exe.config
+C:\Users\Dell\Desktop\To do list\To do list\bin\Debug\To do list.exe
+C:\Users\Dell\Desktop\To do list\To do list\bin\Debug\To do list.pdb
+C:\Users\Dell\Desktop\To do list\To do list\obj\Debug\To do list.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\To do list\To do list\obj\Debug\To do list.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\To do list\To do list\obj\Debug\To_do_list.Form1.resources
+C:\Users\Dell\Desktop\To do list\To do list\obj\Debug\To_do_list.Properties.Resources.resources
+C:\Users\Dell\Desktop\To do list\To do list\obj\Debug\To do list.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\To do list\To do list\obj\Debug\To do list.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\To do list\To do list\obj\Debug\To do list.exe
+C:\Users\Dell\Desktop\To do list\To do list\obj\Debug\To do list.pdb
